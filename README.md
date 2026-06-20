@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Sinha</h1>
-<h3 align="center">An IT Student & Aspiring data analyst as well as project management </h3>
+<h3 align="center">An IT Student & Aspiring data analyst, along with a passion for project management </h3>
 
 
 - 💻 Working on real-world projects and hackathons
