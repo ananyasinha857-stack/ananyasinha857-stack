@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Sinha</h1>
 <h3 align="center">An IT Student & Aspiring data analyst as well as project management </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 
 - 💻 Working on real-world projects and hackathons
 
